@@ -1,0 +1,42 @@
+[
+	{
+		"first": {
+			"name": "chuck",
+			"age": "31",
+			"quality": "fat",
+			"appearance": {
+				"eyes": "brown",
+				"hair": "short"
+			}
+		},
+		"second": {
+			"name": "rick",
+			"age": "28",
+			"quality": "lazy",
+			"appearance": {
+				"eyes": "blue",
+				"hair": "mullet"
+			}
+		},
+		"third": {
+			"name": "mary",
+			"age": "40",
+			"quality": "tall",
+			"appearance": {
+				"eyes": "brown",
+				"hair": "long"
+			}
+		},
+		"fourth": {
+			"name": "susan",
+			"age": "35",
+			"quality": "loud & obnoxious",
+			"appearance": {
+				"eyes": "brown",
+				"hair": "short"
+			}
+		}
+	}
+]
+
+
